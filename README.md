@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nikhiil5
+- 👋 Hi, I’m Nikhil Singh
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning DSA, Web Devlopment(HTML)
+- 🌱 I’m currently learning DSA, Web Devlopment(HTML,CSS,JS,ReactJS)
 - 💞️ I’m looking to collaborate on web devlopment projects
 - 📫 How to reach me nikhilsingh141141@gmail.com
 
