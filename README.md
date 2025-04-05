@@ -1,10 +1,18 @@
-- 👋 Hi, I’m Nikhil Singh
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning DSA, Web Devlopment(HTML,CSS,JS,ReactJS)
-- 💞️ I’m looking to collaborate on web devlopment projects
-- 📫 How to reach me nikhilsingh141141@gmail.com
+# Hi there, I'm Nikhil Singh 👋
 
-<!---
-nikhiil5/nikhiil5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software engineer and full stack developer with a knack for solving complex problems and building innovative solutions. My expertise spans across various technologies and domains, making me a versatile and adaptive developer.
+
+## 🚀 Skills and Technologies
+
+- **Languages:** C/C++, Python, JavaScript
+- **Frameworks and Libraries:**  Express.js, React, Node.js, Next.js, FastAPI
+- **Databases:** PostgreSQL, MongoDB
+- **DevOps:** Docker, Kubernetes, AWS
+- **Other:** REST, Git
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/niikhil5)
+- [LeetCode](https://leetcode.com/u/nikhiil5)
+
+Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi!
